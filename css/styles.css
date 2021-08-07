@@ -2863,7 +2863,7 @@ textarea.form-control-lg {
   margin-top: 0.1rem;
   font-size: 0.875rem;
   color: #fff;
-  background-color: rgba(220, 53, 69, 0.9);
+  background-color: rgba(205, 0, 0, 0.9);
   border-radius: 0.25rem;
 }
 
@@ -5189,7 +5189,7 @@ textarea.form-control-lg {
 .btn-close:disabled, .btn-close.disabled {
   pointer-events: none;
   -webkit-user-select: none;
-     -moz-user-select: none;
+    -moz-user-select: none;
       -ms-user-select: none;
           user-select: none;
   opacity: 0.25;
@@ -7417,7 +7417,7 @@ textarea.form-control-lg {
 }
 
 .bg-primary {
-  background-color: #CD0000 !important;
+  background-color: #303030 !important;
 }
 
 .bg-secondary {
@@ -11013,7 +11013,7 @@ header.masthead h1, header.masthead .h1 {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: rgba(244, 98, 58, 0.9);
+  background: rgba(205, 0, 0, 0.9);
   transition: opacity 0.25s ease;
   text-align: center;
 }
